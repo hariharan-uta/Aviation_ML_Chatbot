@@ -3,6 +3,17 @@
 **Second Prize Winner – UTA Business Symposium 2025**  
 An AI-powered Streamlit chatbot and forecasting system built for smarter, greener aviation. FlightSightAI leverages Natural Language Processing (NLP), Machine Learning, and Cloud Computing to optimize fuel consumption, analyze flight trends, and provide real-time decision-making insights.
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Key Features](#key-features)
+- [Tech Stack](#tech-stack)
+- [Use Cases](#use-cases)
+- [Sample Visuals](#sample-visuals)
+- [Business Impact](#business-impact)
+- [Future Enhancements](#future-enhancements)
+- [How to Run](#how-to-run)
+
 ## Overview
 
 The aviation industry is grappling with rising air traffic, higher fuel consumption, and environmental concerns. To tackle these, **FlightSightAI** offers a comprehensive solution combining:
@@ -31,8 +42,6 @@ The aviation industry is grappling with rising air traffic, higher fuel consumpt
 | Data Processing       | Pandas, NumPy, SQL                                         |
 | Visualization         | Plotly, Seaborn, Matplotlib                                |
 | Deployment            | Streamlit, AWS                                             |
-
-
 
 ## Use Cases
 
@@ -67,3 +76,9 @@ The aviation industry is grappling with rising air traffic, higher fuel consumpt
 - Mobile-friendly UI
 - Integration with reinforcement learning for ticket pricing
 
+## How to Run
+
+**Clone the repository:**
+   ```bash
+   git clone https://github.com/hariharan-uta/Aviation_ML_Chatbot.git
+   cd Aviation_ML_Chatbot
